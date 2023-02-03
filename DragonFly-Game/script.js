@@ -63,7 +63,6 @@ setInterval(() => {
             obstacle.style.animationDuration = newDur + 's';
             console.log('New animation duration: ', newDur)
         }, 500);
-
     }
 
 }, 10);
